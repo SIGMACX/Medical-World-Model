@@ -66,11 +66,10 @@ Medical World Models
 
 # 📚 Paper Collection
 
-> The following table lists all 26 papers and resources extracted from the provided document, covering patient state modeling, medical imaging, physiological mechanism modeling, multimodal learning, and clinical decision-making.
+> The following table lists all 26 papers and resources extracted from the provided document, sorted by publication year in reverse chronological order.
 
 | Year | Title | Venue | Topic | Category | Code |
-|------|------|------|------|------|------|
-
+|------|-------|-------|-------|----------|------|
 | 2026 | CLARITY: Medical World Model for Guiding Treatment Decisions by Modeling Context-Aware Disease Trajectories in Latent Space | - | Context-aware disease trajectory modeling | Clinical Decision Making | [Code](https://github.com/DingTianxingjian/CLARITY) |
 | 2026 | EHRWorld: A Patient-Centric Medical World Model for Long-Horizon Clinical Trajectories | - | Long-horizon EHR simulation | Patient State Modeling; Clinical Decision Making | - |
 | 2026 | MedVersa: A Generalist Foundation Model for Diverse Medical Imaging Tasks | NEJM AI | Generalist medical imaging foundation model | Multimodal Learning; Medical Imaging | - |
@@ -78,11 +77,11 @@ Medical World Models
 | 2026 | Holistic Evaluation of Large Language Models for Medical Tasks with MedHELM | Nature Medicine | Comprehensive evaluation of medical LLMs | Multimodal Learning | [Code](https://github.com/stanford-crfm/helm) |
 | 2025 | Medical World Model | ICCV 2025 | Tumor treatment simulation | Medical Imaging; Clinical Decision Making | [Code](https://github.com/scott-yjyang/MeWM) |
 | 2025 | MIRA: Medical Time Series Foundation Model for Real-World Health Data | NeurIPS 2025 | Foundation model for medical time series | Patient State Modeling | [Code](https://github.com/microsoft/MIRA) |
+| 2025 | Beyond Generative AI: World Models for Clinical Prediction, Counterfactuals, and Planning | - | Theoretical framework for clinical world models | Multimodal Learning; Physiological Mechanism Modeling; Clinical Decision Making | - |
 | 2025 | Medical Digital Twins for Precision Oncology | - | Oncology digital twins | Medical Imaging; Clinical Decision Making | - |
 | 2025 | Reinforcement Learning for Adaptive Radiotherapy | - | Adaptive radiotherapy planning | Medical Imaging; Clinical Decision Making | - |
 | 2025 | Foundation Models for Clinical Time Series | - | Survey of clinical time-series foundation models | Patient State Modeling | - |
 | 2025 | World Models for Healthcare Agents | - | World models for medical agents | Multimodal Learning; Clinical Decision Making | - |
-| 2025 | Beyond Generative AI: World Models for Clinical Prediction, Counterfactuals, and Planning | - | Theoretical framework for clinical world models | Multimodal Learning; Physiological Mechanism Modeling; Clinical Decision Making | - |
 | 2024 | Med-PaLM M | Nature | Multimodal medical foundation model | Multimodal Learning; Clinical Decision Making | - |
 | 2024 | LLaVA-Med | NeurIPS Workshop | Medical vision-language model | Multimodal Learning; Medical Imaging | [Code](https://github.com/microsoft/LLaVA-Med) |
 | 2024 | BioViL-T | CVPR | Biomedical vision-language foundation model | Multimodal Learning | [Code](https://github.com/microsoft/BioViL) |
@@ -97,6 +96,7 @@ Medical World Models
 | 2020 | BEHRT: Transformer for Electronic Health Records | Scientific Reports | Transformer modeling for EHR | Patient State Modeling | [Code](https://github.com/deepmedicine/BEHRT) |
 | 2019 | A Machine Learning Model to Predict Hepatocellular Carcinoma Response to Transcatheter Arterial Chemoembolization | Radiology: Artificial Intelligence | TACE response prediction | Medical Imaging; Patient State Modeling | - |
 | 2018 | The Artificial Intelligence Clinician Learns Optimal Treatment Strategies for Sepsis in Intensive Care | Nature Medicine | Reinforcement learning for sepsis treatment | Multimodal Learning; Clinical Decision Making | - |
+
 ---
 
 # 🔬 Detailed Spotlight Papers
