@@ -112,8 +112,6 @@ Medical World Models
 ---
 
 
-
-
 # 🤝 Contributing
 
 Contributions are welcome.
@@ -131,22 +129,7 @@ You can help by:
 
 If you find this repository useful, please consider giving it a ⭐.
 
----
 
-# 🔗 Related Repositories
-
-- https://github.com/scott-yjyang/MeWM
-- https://github.com/DingTianxingjian/CLARITY
-- https://github.com/microsoft/MIRA
-- https://github.com/deepmedicine/BEHRT
-- https://github.com/ZhiGroup/Med-BERT
-- https://github.com/jshang123/G-Bert
-- https://github.com/mp2893/retain
-- https://github.com/bowang-lab/MedSAM
-- https://github.com/microsoft/LLaVA-Med
-- https://github.com/microsoft/BioViL
-
----
 
 # 📬 Contact
 
